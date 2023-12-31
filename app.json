@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "expo-try-router",
+    "slug": "expo-try-router",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "12b60b53-46bd-4c20-ba79-49be3fa76f1e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/12b60b53-46bd-4c20-ba79-49be3fa76f1e"
+    },
+    "android": {
+      "package": "com.abdelrahmanzaitoun39.expotryrouter"
+    },
+    "ios": {
+      "bundleIdentifier": "com.abdelrahmanzaitoun39.expotryrouter"
+    }
+  }
+}
